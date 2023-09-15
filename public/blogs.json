@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/CH4QwyW/1.jpg",
+      "title": "How to get your first job as a self-taught programmer",
+      "author": "Mrs. Chaity",
+      "author_img": "https://i.ibb.co/48f5JP8/profile.png",
+      "posted_date": "2023-09-15",
+      "reading_times": 5 ,
+      "hashtags": ["beginers", "programming"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/hCKpCmv/2.png",
+      "title": "How to get your first job as a self-taught programmer",
+      "author": "John Smith",
+      "author_img": "https://i.ibb.co/gVb30Zq/boy1.png",
+      "posted_date": "2023-09-14",
+      "reading_times": 12 ,
+      "hashtags": ["beginers", "programming"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/qJSdKxJ/3.png",
+      "title": "How to get your first job as a self-taught programmer",
+      "author": "Emily Johnson",
+      "author_img": "https://i.ibb.co/r5h3CmW/girl1.jpg",
+      "posted_date": "2023-09-13",
+      "reading_times": 7 ,
+      "hashtags":  ["beginers", "programming"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/GVPHTDF/4.jpg",
+      "title": "How to get your first job as a self-taught programmer",
+      "author": "Michael Anderson",
+      "author_img": "https://i.ibb.co/r5h3CmW/girl1.jpg",
+      "posted_date": "2023-09-12",
+      "reading_times": 4 ,
+      "hashtags":  ["beginers", "programming"]
+    }
+  ]
+  
